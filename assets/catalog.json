@@ -1,0 +1,1116 @@
+[
+  {
+    "id": 0,
+    "category": "原有石膏头像",
+    "name": "条纹头巾法老",
+    "appearance": "objects/000.webp",
+    "surface": "objects/000.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 1,
+    "category": "原有石膏头像",
+    "name": "抱琴女子",
+    "appearance": "objects/001.webp",
+    "surface": "objects/001.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 2,
+    "category": "原有石膏头像",
+    "name": "兜帽学者",
+    "appearance": "objects/002.webp",
+    "surface": "objects/002.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 3,
+    "category": "原有石膏头像",
+    "name": "软帽长髯老人",
+    "appearance": "objects/003.webp",
+    "surface": "objects/003.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 4,
+    "category": "原有石膏头像",
+    "name": "珠冠女王",
+    "appearance": "objects/004.webp",
+    "surface": "objects/004.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 5,
+    "category": "原有石膏头像",
+    "name": "皮盔武士",
+    "appearance": "objects/005.webp",
+    "surface": "objects/005.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 6,
+    "category": "原有石膏头像",
+    "name": "针织帽水手",
+    "appearance": "objects/006.webp",
+    "surface": "objects/006.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 7,
+    "category": "原有石膏头像",
+    "name": "持星盘青年",
+    "appearance": "objects/007.webp",
+    "surface": "objects/007.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 8,
+    "category": "原有石膏头像",
+    "name": "高冠卷须君主",
+    "appearance": "objects/008.webp",
+    "surface": "objects/008.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 9,
+    "category": "原有石膏头像",
+    "name": "月桂发冠女子",
+    "appearance": "objects/009.webp",
+    "surface": "objects/009.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 10,
+    "category": "原有石膏头像",
+    "name": "链甲骑士",
+    "appearance": "objects/010.webp",
+    "surface": "objects/010.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 11,
+    "category": "原有石膏头像",
+    "name": "齐发头带女子",
+    "appearance": "objects/011.webp",
+    "surface": "objects/011.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 12,
+    "category": "原有石膏头像",
+    "name": "短卷发披肩青年",
+    "appearance": "objects/012.webp",
+    "surface": "objects/012.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 13,
+    "category": "原有石膏头像",
+    "name": "头巾老妇",
+    "appearance": "objects/013.webp",
+    "surface": "objects/013.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 14,
+    "category": "原有石膏头像",
+    "name": "抱弦乐器乐师",
+    "appearance": "objects/014.webp",
+    "surface": "objects/014.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 15,
+    "category": "原有石膏头像",
+    "name": "长发披袍学者",
+    "appearance": "objects/015.webp",
+    "surface": "objects/015.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 16,
+    "category": "原有石膏头像",
+    "name": "宽檐帽孩童",
+    "appearance": "objects/016.webp",
+    "surface": "objects/016.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 17,
+    "category": "其他石膏物体",
+    "name": "盘发罗马贵妇",
+    "appearance": "objects/017.webp",
+    "surface": "objects/017.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 18,
+    "category": "其他石膏物体",
+    "name": "高髻女子",
+    "appearance": "objects/018.webp",
+    "surface": "objects/018.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 19,
+    "category": "其他石膏物体",
+    "name": "尖帽弄臣",
+    "appearance": "objects/019.webp",
+    "surface": "objects/019.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 20,
+    "category": "其他石膏物体",
+    "name": "齐刘海男孩",
+    "appearance": "objects/020.webp",
+    "surface": "objects/020.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 21,
+    "category": "其他石膏物体",
+    "name": "辫须北欧武士",
+    "appearance": "objects/021.webp",
+    "surface": "objects/021.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 22,
+    "category": "其他石膏物体",
+    "name": "花冠植物学家",
+    "appearance": "objects/022.webp",
+    "surface": "objects/022.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 23,
+    "category": "其他石膏物体",
+    "name": "古典舞者头像",
+    "appearance": "objects/023.webp",
+    "surface": "objects/023.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 24,
+    "category": "其他石膏物体",
+    "name": "木架水车",
+    "appearance": "objects/024.webp",
+    "surface": "objects/024.npz",
+    "height_scale_mm": 72.0
+  },
+  {
+    "id": 25,
+    "category": "其他石膏物体",
+    "name": "半开雕花木箱",
+    "appearance": "objects/025.webp",
+    "surface": "objects/025.npz",
+    "height_scale_mm": 88.0
+  },
+  {
+    "id": 26,
+    "category": "其他石膏物体",
+    "name": "手摇古钻",
+    "appearance": "objects/026.webp",
+    "surface": "objects/026.npz",
+    "height_scale_mm": 58.0
+  },
+  {
+    "id": 27,
+    "category": "其他石膏物体",
+    "name": "自然弯指手模",
+    "appearance": "objects/027.webp",
+    "surface": "objects/027.npz",
+    "height_scale_mm": 48.0
+  },
+  {
+    "id": 28,
+    "category": "其他石膏物体",
+    "name": "托球手模",
+    "appearance": "objects/028.webp",
+    "surface": "objects/028.npz",
+    "height_scale_mm": 74.0
+  },
+  {
+    "id": 29,
+    "category": "其他石膏物体",
+    "name": "旋梯灯塔",
+    "appearance": "objects/029.webp",
+    "surface": "objects/029.npz",
+    "height_scale_mm": 62.0
+  },
+  {
+    "id": 30,
+    "category": "其他石膏物体",
+    "name": "指向手模",
+    "appearance": "objects/030.webp",
+    "surface": "objects/030.npz",
+    "height_scale_mm": 38.0
+  },
+  {
+    "id": 31,
+    "category": "其他石膏物体",
+    "name": "捏立方体手模",
+    "appearance": "objects/031.webp",
+    "surface": "objects/031.npz",
+    "height_scale_mm": 46.0
+  },
+  {
+    "id": 32,
+    "category": "其他石膏物体",
+    "name": "布面手模",
+    "appearance": "objects/032.webp",
+    "surface": "objects/032.npz",
+    "height_scale_mm": 42.0
+  },
+  {
+    "id": 33,
+    "category": "其他石膏物体",
+    "name": "持花手模",
+    "appearance": "objects/033.webp",
+    "surface": "objects/033.npz",
+    "height_scale_mm": 55.0
+  },
+  {
+    "id": 34,
+    "category": "其他石膏物体",
+    "name": "莨苕叶",
+    "appearance": "objects/034.webp",
+    "surface": "objects/034.npz",
+    "height_scale_mm": 18.0
+  },
+  {
+    "id": 35,
+    "category": "其他石膏物体",
+    "name": "枫叶浮雕",
+    "appearance": "objects/035.webp",
+    "surface": "objects/035.npz",
+    "height_scale_mm": 9.0
+  },
+  {
+    "id": 36,
+    "category": "其他石膏物体",
+    "name": "莲花",
+    "appearance": "objects/036.webp",
+    "surface": "objects/036.npz",
+    "height_scale_mm": 32.0
+  },
+  {
+    "id": 37,
+    "category": "其他石膏物体",
+    "name": "玫瑰",
+    "appearance": "objects/037.webp",
+    "surface": "objects/037.npz",
+    "height_scale_mm": 38.0
+  },
+  {
+    "id": 38,
+    "category": "其他石膏物体",
+    "name": "向日葵",
+    "appearance": "objects/038.webp",
+    "surface": "objects/038.npz",
+    "height_scale_mm": 17.0
+  },
+  {
+    "id": 39,
+    "category": "其他石膏物体",
+    "name": "鸢尾花",
+    "appearance": "objects/039.webp",
+    "surface": "objects/039.npz",
+    "height_scale_mm": 28.0
+  },
+  {
+    "id": 40,
+    "category": "其他石膏物体",
+    "name": "葡萄藤",
+    "appearance": "objects/040.webp",
+    "surface": "objects/040.npz",
+    "height_scale_mm": 42.0
+  },
+  {
+    "id": 41,
+    "category": "其他石膏物体",
+    "name": "朝鲜蓟",
+    "appearance": "objects/041.webp",
+    "surface": "objects/041.npz",
+    "height_scale_mm": 64.0
+  },
+  {
+    "id": 42,
+    "category": "其他石膏物体",
+    "name": "卷叶甘蓝",
+    "appearance": "objects/042.webp",
+    "surface": "objects/042.npz",
+    "height_scale_mm": 59.0
+  },
+  {
+    "id": 43,
+    "category": "其他石膏物体",
+    "name": "簇生蘑菇",
+    "appearance": "objects/043.webp",
+    "surface": "objects/043.npz",
+    "height_scale_mm": 58.0
+  },
+  {
+    "id": 44,
+    "category": "其他石膏物体",
+    "name": "螺旋多肉",
+    "appearance": "objects/044.webp",
+    "surface": "objects/044.npz",
+    "height_scale_mm": 37.0
+  },
+  {
+    "id": 45,
+    "category": "其他石膏物体",
+    "name": "麦穗",
+    "appearance": "objects/045.webp",
+    "surface": "objects/045.npz",
+    "height_scale_mm": 23.0
+  },
+  {
+    "id": 46,
+    "category": "其他石膏物体",
+    "name": "鹦鹉螺壳",
+    "appearance": "objects/046.webp",
+    "surface": "objects/046.npz",
+    "height_scale_mm": 36.0
+  },
+  {
+    "id": 47,
+    "category": "其他石膏物体",
+    "name": "扇贝壳",
+    "appearance": "objects/047.webp",
+    "surface": "objects/047.npz",
+    "height_scale_mm": 19.0
+  },
+  {
+    "id": 48,
+    "category": "其他石膏物体",
+    "name": "海胆壳",
+    "appearance": "objects/048.webp",
+    "surface": "objects/048.npz",
+    "height_scale_mm": 32.0
+  },
+  {
+    "id": 49,
+    "category": "其他石膏物体",
+    "name": "海星浮雕",
+    "appearance": "objects/049.webp",
+    "surface": "objects/049.npz",
+    "height_scale_mm": 12.0
+  },
+  {
+    "id": 50,
+    "category": "其他石膏物体",
+    "name": "枝状珊瑚",
+    "appearance": "objects/050.webp",
+    "surface": "objects/050.npz",
+    "height_scale_mm": 40.0
+  },
+  {
+    "id": 51,
+    "category": "其他石膏物体",
+    "name": "菊石化石",
+    "appearance": "objects/051.webp",
+    "surface": "objects/051.npz",
+    "height_scale_mm": 26.0
+  },
+  {
+    "id": 52,
+    "category": "其他石膏物体",
+    "name": "三叶虫化石",
+    "appearance": "objects/052.webp",
+    "surface": "objects/052.npz",
+    "height_scale_mm": 15.0
+  },
+  {
+    "id": 53,
+    "category": "其他石膏物体",
+    "name": "深褶布料",
+    "appearance": "objects/053.webp",
+    "surface": "objects/053.npz",
+    "height_scale_mm": 34.0
+  },
+  {
+    "id": 54,
+    "category": "其他石膏物体",
+    "name": "篮编纹板",
+    "appearance": "objects/054.webp",
+    "surface": "objects/054.npz",
+    "height_scale_mm": 12.0
+  },
+  {
+    "id": 55,
+    "category": "其他石膏物体",
+    "name": "折纸鹤",
+    "appearance": "objects/055.webp",
+    "surface": "objects/055.npz",
+    "height_scale_mm": 46.0
+  },
+  {
+    "id": 56,
+    "category": "其他石膏物体",
+    "name": "折扇",
+    "appearance": "objects/056.webp",
+    "surface": "objects/056.npz",
+    "height_scale_mm": 17.0
+  },
+  {
+    "id": 57,
+    "category": "其他石膏物体",
+    "name": "褶皱帷幔",
+    "appearance": "objects/057.webp",
+    "surface": "objects/057.npz",
+    "height_scale_mm": 40.0
+  },
+  {
+    "id": 58,
+    "category": "其他石膏物体",
+    "name": "爱奥尼柱头",
+    "appearance": "objects/058.webp",
+    "surface": "objects/058.npz",
+    "height_scale_mm": 55.0
+  },
+  {
+    "id": 59,
+    "category": "其他石膏物体",
+    "name": "科林斯柱头",
+    "appearance": "objects/059.webp",
+    "surface": "objects/059.npz",
+    "height_scale_mm": 67.0
+  },
+  {
+    "id": 60,
+    "category": "其他石膏物体",
+    "name": "拱顶楔石",
+    "appearance": "objects/060.webp",
+    "surface": "objects/060.npz",
+    "height_scale_mm": 42.0
+  },
+  {
+    "id": 61,
+    "category": "其他石膏物体",
+    "name": "卷涡雕饰",
+    "appearance": "objects/061.webp",
+    "surface": "objects/061.npz",
+    "height_scale_mm": 34.0
+  },
+  {
+    "id": 62,
+    "category": "其他石膏物体",
+    "name": "雕花框角",
+    "appearance": "objects/062.webp",
+    "surface": "objects/062.npz",
+    "height_scale_mm": 20.0
+  },
+  {
+    "id": 63,
+    "category": "其他石膏物体",
+    "name": "天花花饰",
+    "appearance": "objects/063.webp",
+    "surface": "objects/063.npz",
+    "height_scale_mm": 16.0
+  },
+  {
+    "id": 64,
+    "category": "结构化表面",
+    "name": "复合结构表面 064",
+    "appearance": "objects/064.webp",
+    "surface": "objects/064.npz",
+    "height_scale_mm": 28.360819
+  },
+  {
+    "id": 65,
+    "category": "结构化表面",
+    "name": "复合结构表面 065",
+    "appearance": "objects/065.webp",
+    "surface": "objects/065.npz",
+    "height_scale_mm": 27.11107
+  },
+  {
+    "id": 66,
+    "category": "结构化表面",
+    "name": "复合结构表面 066",
+    "appearance": "objects/066.webp",
+    "surface": "objects/066.npz",
+    "height_scale_mm": 15.7684
+  },
+  {
+    "id": 67,
+    "category": "结构化表面",
+    "name": "复合结构表面 067",
+    "appearance": "objects/067.webp",
+    "surface": "objects/067.npz",
+    "height_scale_mm": 20.411665
+  },
+  {
+    "id": 68,
+    "category": "结构化表面",
+    "name": "复合结构表面 068",
+    "appearance": "objects/068.webp",
+    "surface": "objects/068.npz",
+    "height_scale_mm": 28.355702
+  },
+  {
+    "id": 69,
+    "category": "结构化表面",
+    "name": "复合结构表面 069",
+    "appearance": "objects/069.webp",
+    "surface": "objects/069.npz",
+    "height_scale_mm": 24.268943
+  },
+  {
+    "id": 70,
+    "category": "结构化表面",
+    "name": "复合结构表面 070",
+    "appearance": "objects/070.webp",
+    "surface": "objects/070.npz",
+    "height_scale_mm": 21.677574
+  },
+  {
+    "id": 71,
+    "category": "结构化表面",
+    "name": "复合结构表面 071",
+    "appearance": "objects/071.webp",
+    "surface": "objects/071.npz",
+    "height_scale_mm": 27.089126
+  },
+  {
+    "id": 72,
+    "category": "结构化表面",
+    "name": "复合结构表面 072",
+    "appearance": "objects/072.webp",
+    "surface": "objects/072.npz",
+    "height_scale_mm": 20.168597
+  },
+  {
+    "id": 73,
+    "category": "结构化表面",
+    "name": "复合结构表面 073",
+    "appearance": "objects/073.webp",
+    "surface": "objects/073.npz",
+    "height_scale_mm": 21.350882
+  },
+  {
+    "id": 74,
+    "category": "结构化表面",
+    "name": "复合结构表面 074",
+    "appearance": "objects/074.webp",
+    "surface": "objects/074.npz",
+    "height_scale_mm": 21.812404
+  },
+  {
+    "id": 75,
+    "category": "结构化表面",
+    "name": "复合结构表面 075",
+    "appearance": "objects/075.webp",
+    "surface": "objects/075.npz",
+    "height_scale_mm": 26.199505
+  },
+  {
+    "id": 76,
+    "category": "结构化表面",
+    "name": "复合结构表面 076",
+    "appearance": "objects/076.webp",
+    "surface": "objects/076.npz",
+    "height_scale_mm": 25.594999
+  },
+  {
+    "id": 77,
+    "category": "结构化表面",
+    "name": "复合结构表面 077",
+    "appearance": "objects/077.webp",
+    "surface": "objects/077.npz",
+    "height_scale_mm": 19.947744
+  },
+  {
+    "id": 78,
+    "category": "结构化表面",
+    "name": "复合结构表面 078",
+    "appearance": "objects/078.webp",
+    "surface": "objects/078.npz",
+    "height_scale_mm": 21.9078
+  },
+  {
+    "id": 79,
+    "category": "结构化表面",
+    "name": "复合结构表面 079",
+    "appearance": "objects/079.webp",
+    "surface": "objects/079.npz",
+    "height_scale_mm": 23.095814
+  },
+  {
+    "id": 80,
+    "category": "结构化表面",
+    "name": "复合结构表面 080",
+    "appearance": "objects/080.webp",
+    "surface": "objects/080.npz",
+    "height_scale_mm": 27.176381
+  },
+  {
+    "id": 81,
+    "category": "结构化表面",
+    "name": "复合结构表面 081",
+    "appearance": "objects/081.webp",
+    "surface": "objects/081.npz",
+    "height_scale_mm": 18.586144
+  },
+  {
+    "id": 82,
+    "category": "结构化表面",
+    "name": "复合结构表面 082",
+    "appearance": "objects/082.webp",
+    "surface": "objects/082.npz",
+    "height_scale_mm": 31.711983
+  },
+  {
+    "id": 83,
+    "category": "结构化表面",
+    "name": "复合结构表面 083",
+    "appearance": "objects/083.webp",
+    "surface": "objects/083.npz",
+    "height_scale_mm": 27.708244
+  },
+  {
+    "id": 84,
+    "category": "结构化表面",
+    "name": "复合结构表面 084",
+    "appearance": "objects/084.webp",
+    "surface": "objects/084.npz",
+    "height_scale_mm": 24.114183
+  },
+  {
+    "id": 85,
+    "category": "结构化表面",
+    "name": "复合结构表面 085",
+    "appearance": "objects/085.webp",
+    "surface": "objects/085.npz",
+    "height_scale_mm": 20.033199
+  },
+  {
+    "id": 86,
+    "category": "结构化表面",
+    "name": "复合结构表面 086",
+    "appearance": "objects/086.webp",
+    "surface": "objects/086.npz",
+    "height_scale_mm": 24.045355
+  },
+  {
+    "id": 87,
+    "category": "结构化表面",
+    "name": "复合结构表面 087",
+    "appearance": "objects/087.webp",
+    "surface": "objects/087.npz",
+    "height_scale_mm": 30.059205
+  },
+  {
+    "id": 88,
+    "category": "结构化表面",
+    "name": "复合结构表面 088",
+    "appearance": "objects/088.webp",
+    "surface": "objects/088.npz",
+    "height_scale_mm": 18.227427
+  },
+  {
+    "id": 89,
+    "category": "结构化表面",
+    "name": "复合结构表面 089",
+    "appearance": "objects/089.webp",
+    "surface": "objects/089.npz",
+    "height_scale_mm": 27.403763
+  },
+  {
+    "id": 90,
+    "category": "结构化表面",
+    "name": "复合结构表面 090",
+    "appearance": "objects/090.webp",
+    "surface": "objects/090.npz",
+    "height_scale_mm": 23.269247
+  },
+  {
+    "id": 91,
+    "category": "结构化表面",
+    "name": "复合结构表面 091",
+    "appearance": "objects/091.webp",
+    "surface": "objects/091.npz",
+    "height_scale_mm": 35.168406
+  },
+  {
+    "id": 92,
+    "category": "结构化表面",
+    "name": "复合结构表面 092",
+    "appearance": "objects/092.webp",
+    "surface": "objects/092.npz",
+    "height_scale_mm": 23.673366
+  },
+  {
+    "id": 93,
+    "category": "结构化表面",
+    "name": "复合结构表面 093",
+    "appearance": "objects/093.webp",
+    "surface": "objects/093.npz",
+    "height_scale_mm": 31.570099
+  },
+  {
+    "id": 94,
+    "category": "结构化表面",
+    "name": "复合结构表面 094",
+    "appearance": "objects/094.webp",
+    "surface": "objects/094.npz",
+    "height_scale_mm": 25.387973
+  },
+  {
+    "id": 95,
+    "category": "结构化表面",
+    "name": "复合结构表面 095",
+    "appearance": "objects/095.webp",
+    "surface": "objects/095.npz",
+    "height_scale_mm": 26.142124
+  },
+  {
+    "id": 96,
+    "category": "结构化表面",
+    "name": "复合结构表面 096",
+    "appearance": "objects/096.webp",
+    "surface": "objects/096.npz",
+    "height_scale_mm": 22.957411
+  },
+  {
+    "id": 97,
+    "category": "结构化表面",
+    "name": "复合结构表面 097",
+    "appearance": "objects/097.webp",
+    "surface": "objects/097.npz",
+    "height_scale_mm": 26.503071
+  },
+  {
+    "id": 98,
+    "category": "结构化表面",
+    "name": "复合结构表面 098",
+    "appearance": "objects/098.webp",
+    "surface": "objects/098.npz",
+    "height_scale_mm": 22.086706
+  },
+  {
+    "id": 99,
+    "category": "结构化表面",
+    "name": "复合结构表面 099",
+    "appearance": "objects/099.webp",
+    "surface": "objects/099.npz",
+    "height_scale_mm": 23.233085
+  },
+  {
+    "id": 100,
+    "category": "结构化表面",
+    "name": "复合结构表面 100",
+    "appearance": "objects/100.webp",
+    "surface": "objects/100.npz",
+    "height_scale_mm": 19.981883
+  },
+  {
+    "id": 101,
+    "category": "结构化表面",
+    "name": "复合结构表面 101",
+    "appearance": "objects/101.webp",
+    "surface": "objects/101.npz",
+    "height_scale_mm": 24.979866
+  },
+  {
+    "id": 102,
+    "category": "结构化表面",
+    "name": "复合结构表面 102",
+    "appearance": "objects/102.webp",
+    "surface": "objects/102.npz",
+    "height_scale_mm": 21.472925
+  },
+  {
+    "id": 103,
+    "category": "结构化表面",
+    "name": "复合结构表面 103",
+    "appearance": "objects/103.webp",
+    "surface": "objects/103.npz",
+    "height_scale_mm": 24.899489
+  },
+  {
+    "id": 104,
+    "category": "结构化表面",
+    "name": "复合结构表面 104",
+    "appearance": "objects/104.webp",
+    "surface": "objects/104.npz",
+    "height_scale_mm": 23.884219
+  },
+  {
+    "id": 105,
+    "category": "结构化表面",
+    "name": "复合结构表面 105",
+    "appearance": "objects/105.webp",
+    "surface": "objects/105.npz",
+    "height_scale_mm": 24.615446
+  },
+  {
+    "id": 106,
+    "category": "结构化表面",
+    "name": "复合结构表面 106",
+    "appearance": "objects/106.webp",
+    "surface": "objects/106.npz",
+    "height_scale_mm": 29.206669
+  },
+  {
+    "id": 107,
+    "category": "结构化表面",
+    "name": "复合结构表面 107",
+    "appearance": "objects/107.webp",
+    "surface": "objects/107.npz",
+    "height_scale_mm": 29.208629
+  },
+  {
+    "id": 108,
+    "category": "结构化表面",
+    "name": "复合结构表面 108",
+    "appearance": "objects/108.webp",
+    "surface": "objects/108.npz",
+    "height_scale_mm": 18.070137
+  },
+  {
+    "id": 109,
+    "category": "结构化表面",
+    "name": "复合结构表面 109",
+    "appearance": "objects/109.webp",
+    "surface": "objects/109.npz",
+    "height_scale_mm": 25.177608
+  },
+  {
+    "id": 110,
+    "category": "结构化表面",
+    "name": "复合结构表面 110",
+    "appearance": "objects/110.webp",
+    "surface": "objects/110.npz",
+    "height_scale_mm": 27.099653
+  },
+  {
+    "id": 111,
+    "category": "结构化表面",
+    "name": "复合结构表面 111",
+    "appearance": "objects/111.webp",
+    "surface": "objects/111.npz",
+    "height_scale_mm": 23.827182
+  },
+  {
+    "id": 112,
+    "category": "结构化表面",
+    "name": "复合结构表面 112",
+    "appearance": "objects/112.webp",
+    "surface": "objects/112.npz",
+    "height_scale_mm": 29.277724
+  },
+  {
+    "id": 113,
+    "category": "结构化表面",
+    "name": "复合结构表面 113",
+    "appearance": "objects/113.webp",
+    "surface": "objects/113.npz",
+    "height_scale_mm": 29.442242
+  },
+  {
+    "id": 114,
+    "category": "结构化表面",
+    "name": "复合结构表面 114",
+    "appearance": "objects/114.webp",
+    "surface": "objects/114.npz",
+    "height_scale_mm": 27.128161
+  },
+  {
+    "id": 115,
+    "category": "结构化表面",
+    "name": "复合结构表面 115",
+    "appearance": "objects/115.webp",
+    "surface": "objects/115.npz",
+    "height_scale_mm": 26.176652
+  },
+  {
+    "id": 116,
+    "category": "结构化表面",
+    "name": "复合结构表面 116",
+    "appearance": "objects/116.webp",
+    "surface": "objects/116.npz",
+    "height_scale_mm": 21.659424
+  },
+  {
+    "id": 117,
+    "category": "结构化表面",
+    "name": "复合结构表面 117",
+    "appearance": "objects/117.webp",
+    "surface": "objects/117.npz",
+    "height_scale_mm": 23.55024
+  },
+  {
+    "id": 118,
+    "category": "结构化表面",
+    "name": "复合结构表面 118",
+    "appearance": "objects/118.webp",
+    "surface": "objects/118.npz",
+    "height_scale_mm": 26.490382
+  },
+  {
+    "id": 119,
+    "category": "结构化表面",
+    "name": "复合结构表面 119",
+    "appearance": "objects/119.webp",
+    "surface": "objects/119.npz",
+    "height_scale_mm": 24.912618
+  },
+  {
+    "id": 120,
+    "category": "结构化表面",
+    "name": "复合结构表面 120",
+    "appearance": "objects/120.webp",
+    "surface": "objects/120.npz",
+    "height_scale_mm": 27.713921
+  },
+  {
+    "id": 121,
+    "category": "结构化表面",
+    "name": "复合结构表面 121",
+    "appearance": "objects/121.webp",
+    "surface": "objects/121.npz",
+    "height_scale_mm": 25.020134
+  },
+  {
+    "id": 122,
+    "category": "结构化表面",
+    "name": "复合结构表面 122",
+    "appearance": "objects/122.webp",
+    "surface": "objects/122.npz",
+    "height_scale_mm": 24.234063
+  },
+  {
+    "id": 123,
+    "category": "结构化表面",
+    "name": "复合结构表面 123",
+    "appearance": "objects/123.webp",
+    "surface": "objects/123.npz",
+    "height_scale_mm": 27.499966
+  },
+  {
+    "id": 124,
+    "category": "结构化表面",
+    "name": "复合结构表面 124",
+    "appearance": "objects/124.webp",
+    "surface": "objects/124.npz",
+    "height_scale_mm": 31.200313
+  },
+  {
+    "id": 125,
+    "category": "结构化表面",
+    "name": "复合结构表面 125",
+    "appearance": "objects/125.webp",
+    "surface": "objects/125.npz",
+    "height_scale_mm": 29.228586
+  },
+  {
+    "id": 126,
+    "category": "结构化表面",
+    "name": "复合结构表面 126",
+    "appearance": "objects/126.webp",
+    "surface": "objects/126.npz",
+    "height_scale_mm": 30.149399
+  },
+  {
+    "id": 127,
+    "category": "结构化表面",
+    "name": "复合结构表面 127",
+    "appearance": "objects/127.webp",
+    "surface": "objects/127.npz",
+    "height_scale_mm": 29.096328
+  },
+  {
+    "id": 128,
+    "category": "自由曲面",
+    "name": "鞍形壳",
+    "shape": "saddle",
+    "variant": 1
+  },
+  {
+    "id": 129,
+    "category": "薄壁叶片",
+    "name": "扭转叶片",
+    "shape": "fan",
+    "variant": 2
+  },
+  {
+    "id": 130,
+    "category": "孔槽与齿形",
+    "name": "多齿直齿轮",
+    "shape": "gear",
+    "variant": 2
+  },
+  {
+    "id": 131,
+    "category": "台阶与棱边",
+    "name": "多层嵌套台阶",
+    "shape": "terrace",
+    "variant": 2
+  },
+  {
+    "id": 132,
+    "category": "细节浮雕",
+    "name": "花饰浮雕",
+    "shape": "rosette",
+    "variant": 2
+  },
+  {
+    "id": 133,
+    "category": "生物形貌",
+    "name": "多齿牙弓",
+    "shape": "dental",
+    "variant": 2
+  },
+  {
+    "id": 134,
+    "category": "原有石膏头像",
+    "name": "卷发青年",
+    "appearance": "objects/134.webp",
+    "surface": "objects/134.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 135,
+    "category": "原有石膏头像",
+    "name": "花冠贵妇",
+    "appearance": "objects/135.webp",
+    "surface": "objects/135.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 136,
+    "category": "原有石膏头像",
+    "name": "盘辫女子",
+    "appearance": "objects/136.webp",
+    "surface": "objects/136.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 137,
+    "category": "原有石膏头像",
+    "name": "方帽学士",
+    "appearance": "objects/137.webp",
+    "surface": "objects/137.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 138,
+    "category": "原有石膏头像",
+    "name": "卷发长髯哲人",
+    "appearance": "objects/138.webp",
+    "surface": "objects/138.npz",
+    "height_scale_mm": 120.0
+  },
+  {
+    "id": 139,
+    "category": "原有石膏头像",
+    "name": "垂片头冠女子",
+    "appearance": "objects/139.webp",
+    "surface": "objects/139.npz",
+    "height_scale_mm": 120.0
+  }
+]

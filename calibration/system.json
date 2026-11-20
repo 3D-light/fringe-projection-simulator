@@ -1,0 +1,147 @@
+{
+  "description": "Synthetic pinhole rig with radial distortion, intended for demonstration.",
+  "worldUnits": "mm",
+  "projectorWorldUnits": "mm",
+  "cameraImageSize": [
+    1200,
+    1600
+  ],
+  "projectorImageSize": [
+    800,
+    1280
+  ],
+  "cameraK": [
+    [
+      2800,
+      0,
+      800.5
+    ],
+    [
+      0,
+      2800,
+      600.5
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "projectorK": [
+    [
+      1720,
+      0,
+      640.5
+    ],
+    [
+      0,
+      1700,
+      400.5
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "cameraRadial": [
+    -0.035,
+    0.006
+  ],
+  "projectorRadial": [
+    -0.025,
+    0.004
+  ],
+  "cameraTangential": [
+    0,
+    0
+  ],
+  "projectorTangential": [
+    0,
+    0
+  ],
+  "cameraRotationMatrices": [
+    [
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ]
+  ],
+  "projectorRotationMatrices": [
+    [
+      [
+        0.984807753012208
+      ],
+      [
+        0
+      ],
+      [
+        0.17364817766693033
+      ]
+    ],
+    [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        -0.17364817766693033
+      ],
+      [
+        0
+      ],
+      [
+        0.984807753012208
+      ]
+    ]
+  ],
+  "cameraTranslationVectors": [
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "projectorTranslationVectors": [
+    [
+      -75,
+      -4,
+      3
+    ]
+  ]
+}

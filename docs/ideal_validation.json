@@ -1,0 +1,402 @@
+{
+  "seed": 1437,
+  "available_objects": 140,
+  "periods": [
+    12,
+    19,
+    31
+  ],
+  "resolution": [
+    1024,
+    1024
+  ],
+  "steps_deg": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "png_bits": 16,
+  "decoder_inputs": [
+    "unsigned 16-bit PNG pixel values",
+    "projector frequencies in cycles across the width",
+    "nominal four-step order",
+    "calibration"
+  ],
+  "extra_geometry_checks": [
+    {
+      "depth_mm": 320.0,
+      "max_abs_error_mm": 1.7053025658242404e-13
+    },
+    {
+      "depth_mm": 650.0,
+      "max_abs_error_mm": 1.1368683772161603e-12
+    }
+  ],
+  "results": [
+    {
+      "id": 1,
+      "object": "001 · 抱琴女子",
+      "category": "原有石膏头像",
+      "object_pixels": 286193,
+      "evaluated_pixels": 286106,
+      "object_pixels_with_depth": 286107,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 3.4233449854820464e-05,
+          "max_abs_rad": 0.0003178282908263864
+        },
+        "19": {
+          "rmse_rad": 3.4193890087667115e-05,
+          "max_abs_rad": 0.00031071778781406866
+        },
+        "31": {
+          "rmse_rad": 3.390358210930278e-05,
+          "max_abs_rad": 0.00031453965309263517
+        }
+      },
+      "projector_u_rmse_px": 0.00022279938812780697,
+      "height_rmse_mm": 0.00021176537934285573,
+      "height_max_abs_mm": 0.0026013889620344344,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 3,
+      "object": "003 · 软帽长髯老人",
+      "category": "原有石膏头像",
+      "object_pixels": 322634,
+      "evaluated_pixels": 322631,
+      "object_pixels_with_depth": 322631,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 3.751651303238997e-05,
+          "max_abs_rad": 0.0003202867047405759
+        },
+        "19": {
+          "rmse_rad": 3.750654029663238e-05,
+          "max_abs_rad": 0.00031665723636991526
+        },
+        "31": {
+          "rmse_rad": 3.7519830050191345e-05,
+          "max_abs_rad": 0.00031822326399896263
+        }
+      },
+      "projector_u_rmse_px": 0.00024656377461520606,
+      "height_rmse_mm": 0.00024224879263053887,
+      "height_max_abs_mm": 0.002412514519846809,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 17,
+      "object": "017 · 盘发罗马贵妇",
+      "category": "其他石膏物体",
+      "object_pixels": 283711,
+      "evaluated_pixels": 283676,
+      "object_pixels_with_depth": 283678,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 3.7967649531365695e-05,
+          "max_abs_rad": 0.0003175743517592789
+        },
+        "19": {
+          "rmse_rad": 3.743591653291421e-05,
+          "max_abs_rad": 0.00031360458352676634
+        },
+        "31": {
+          "rmse_rad": 3.7802427808167474e-05,
+          "max_abs_rad": 0.0003186817654181081
+        }
+      },
+      "projector_u_rmse_px": 0.00024842088243813267,
+      "height_rmse_mm": 0.00023163538137692884,
+      "height_max_abs_mm": 0.002407513694492991,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 25,
+      "object": "025 · 半开雕花木箱",
+      "category": "其他石膏物体",
+      "object_pixels": 503396,
+      "evaluated_pixels": 496877,
+      "object_pixels_with_depth": 497223,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 3.1031870438081254e-05,
+          "max_abs_rad": 0.0003114384394045786
+        },
+        "19": {
+          "rmse_rad": 3.107495674264402e-05,
+          "max_abs_rad": 0.0003192062240187935
+        },
+        "31": {
+          "rmse_rad": 3.111834007720328e-05,
+          "max_abs_rad": 0.0003135257260459166
+        }
+      },
+      "projector_u_rmse_px": 0.00020449600595016183,
+      "height_rmse_mm": 0.00020279576399892684,
+      "height_max_abs_mm": 0.0024871319305361794,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 35,
+      "object": "035 · 枫叶浮雕",
+      "category": "其他石膏物体",
+      "object_pixels": 396348,
+      "evaluated_pixels": 396348,
+      "object_pixels_with_depth": 396348,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 1.4616462839090332e-05,
+          "max_abs_rad": 0.00012415246059868803
+        },
+        "19": {
+          "rmse_rad": 1.4606935069476636e-05,
+          "max_abs_rad": 0.00011211674633548545
+        },
+        "31": {
+          "rmse_rad": 1.4587900480513012e-05,
+          "max_abs_rad": 0.0001207316509065919
+        }
+      },
+      "projector_u_rmse_px": 9.586524782683926e-05,
+      "height_rmse_mm": 0.00012460063367070653,
+      "height_max_abs_mm": 0.001050115686780373,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 50,
+      "object": "050 · 枝状珊瑚",
+      "category": "其他石膏物体",
+      "object_pixels": 292033,
+      "evaluated_pixels": 292031,
+      "object_pixels_with_depth": 292031,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 2.8713484865222365e-05,
+          "max_abs_rad": 0.0003176801922981253
+        },
+        "19": {
+          "rmse_rad": 2.8768723489351846e-05,
+          "max_abs_rad": 0.00031630739720366774
+        },
+        "31": {
+          "rmse_rad": 2.8741161006558178e-05,
+          "max_abs_rad": 0.00031795942697464296
+        }
+      },
+      "projector_u_rmse_px": 0.00018887423357505652,
+      "height_rmse_mm": 0.0002262088654640941,
+      "height_max_abs_mm": 0.002647507556559958,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 121,
+      "object": "121 · 复合结构表面 121",
+      "category": "结构化表面",
+      "object_pixels": 611490,
+      "evaluated_pixels": 611490,
+      "object_pixels_with_depth": 611490,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 1.7681651749361886e-05,
+          "max_abs_rad": 0.00017824496545488993
+        },
+        "19": {
+          "rmse_rad": 1.7679342276853037e-05,
+          "max_abs_rad": 0.00016017530819089845
+        },
+        "31": {
+          "rmse_rad": 1.768916515691514e-05,
+          "max_abs_rad": 0.0001663250098198733
+        }
+      },
+      "projector_u_rmse_px": 0.00011624539143817068,
+      "height_rmse_mm": 0.00014971827099955558,
+      "height_max_abs_mm": 0.0014058314542921835,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 128,
+      "object": "128 · 鞍形壳",
+      "category": "自由曲面",
+      "object_pixels": 558887,
+      "evaluated_pixels": 558887,
+      "object_pixels_with_depth": 558887,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 1.4279746902590969e-05,
+          "max_abs_rad": 5.2160548763473175e-05
+        },
+        "19": {
+          "rmse_rad": 1.42923069817538e-05,
+          "max_abs_rad": 4.860132750405407e-05
+        },
+        "31": {
+          "rmse_rad": 1.427146563254745e-05,
+          "max_abs_rad": 4.986957660225539e-05
+        }
+      },
+      "projector_u_rmse_px": 9.378577757270093e-05,
+      "height_rmse_mm": 0.00011661796516264333,
+      "height_max_abs_mm": 0.00041359546492003574,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 129,
+      "object": "129 · 扭转叶片",
+      "category": "薄壁叶片",
+      "object_pixels": 307172,
+      "evaluated_pixels": 307172,
+      "object_pixels_with_depth": 307172,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 1.5096555328414393e-05,
+          "max_abs_rad": 0.00013463028914150957
+        },
+        "19": {
+          "rmse_rad": 1.5093954045200713e-05,
+          "max_abs_rad": 0.00015245042240336705
+        },
+        "31": {
+          "rmse_rad": 1.5078195076180951e-05,
+          "max_abs_rad": 0.00013820864730399677
+        }
+      },
+      "projector_u_rmse_px": 9.90872476602985e-05,
+      "height_rmse_mm": 0.00011935057411083091,
+      "height_max_abs_mm": 0.0011739283592646643,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 130,
+      "object": "130 · 多齿直齿轮",
+      "category": "孔槽与齿形",
+      "object_pixels": 433619,
+      "evaluated_pixels": 433619,
+      "object_pixels_with_depth": 433619,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 1.6727142430297314e-05,
+          "max_abs_rad": 0.0002351725254582416
+        },
+        "19": {
+          "rmse_rad": 1.676139700084718e-05,
+          "max_abs_rad": 0.0002490420544114914
+        },
+        "31": {
+          "rmse_rad": 1.6743770489020393e-05,
+          "max_abs_rad": 0.00026284900537646317
+        }
+      },
+      "projector_u_rmse_px": 0.0001100326746557823,
+      "height_rmse_mm": 0.00013684477071556258,
+      "height_max_abs_mm": 0.002153462338412737,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 131,
+      "object": "131 · 多层嵌套台阶",
+      "category": "台阶与棱边",
+      "object_pixels": 560362,
+      "evaluated_pixels": 560362,
+      "object_pixels_with_depth": 560362,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 2.5287017903447724e-05,
+          "max_abs_rad": 0.00031180591597182304
+        },
+        "19": {
+          "rmse_rad": 2.51163279196211e-05,
+          "max_abs_rad": 0.0003108620990863341
+        },
+        "31": {
+          "rmse_rad": 2.5203906499145932e-05,
+          "max_abs_rad": 0.000319596778478984
+        }
+      },
+      "projector_u_rmse_px": 0.00016562895709178223,
+      "height_rmse_mm": 0.0002090323149130956,
+      "height_max_abs_mm": 0.0026662503667580495,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 132,
+      "object": "132 · 花饰浮雕",
+      "category": "细节浮雕",
+      "object_pixels": 524660,
+      "evaluated_pixels": 524660,
+      "object_pixels_with_depth": 524660,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 1.4408770204665662e-05,
+          "max_abs_rad": 5.155617867325442e-05
+        },
+        "19": {
+          "rmse_rad": 1.4410335165109966e-05,
+          "max_abs_rad": 5.262437104195949e-05
+        },
+        "31": {
+          "rmse_rad": 1.4425686089125144e-05,
+          "max_abs_rad": 5.2827650502593713e-05
+        }
+      },
+      "projector_u_rmse_px": 9.479924639264362e-05,
+      "height_rmse_mm": 0.00012246986415623357,
+      "height_max_abs_mm": 0.00044616817706355505,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 133,
+      "object": "133 · 多齿牙弓",
+      "category": "生物形貌",
+      "object_pixels": 444048,
+      "evaluated_pixels": 444048,
+      "object_pixels_with_depth": 444048,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 1.7726143389323353e-05,
+          "max_abs_rad": 0.00018688770426751527
+        },
+        "19": {
+          "rmse_rad": 1.7719273245263012e-05,
+          "max_abs_rad": 0.00019523534546770973
+        },
+        "31": {
+          "rmse_rad": 1.7721502296920703e-05,
+          "max_abs_rad": 0.0001705317177033048
+        }
+      },
+      "projector_u_rmse_px": 0.00011645789685943108,
+      "height_rmse_mm": 0.00014643366009213382,
+      "height_max_abs_mm": 0.001425297067783049,
+      "evaluation_mask_coverage": 1.0
+    },
+    {
+      "id": 134,
+      "object": "134 · 卷发青年",
+      "category": "原有石膏头像",
+      "object_pixels": 357533,
+      "evaluated_pixels": 357521,
+      "object_pixels_with_depth": 357521,
+      "wrapped_phase": {
+        "12": {
+          "rmse_rad": 3.378644702489114e-05,
+          "max_abs_rad": 0.0003104149917815303
+        },
+        "19": {
+          "rmse_rad": 3.38248972159255e-05,
+          "max_abs_rad": 0.0003169912240850696
+        },
+        "31": {
+          "rmse_rad": 3.391385738221839e-05,
+          "max_abs_rad": 0.000317096960141672
+        }
+      },
+      "projector_u_rmse_px": 0.00022286691268931104,
+      "height_rmse_mm": 0.00020790106090007594,
+      "height_max_abs_mm": 0.0022984975066719926,
+      "evaluation_mask_coverage": 1.0
+    }
+  ]
+}

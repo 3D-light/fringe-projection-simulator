@@ -1,0 +1,9 @@
+.venv/
+.cache/
+calibration/local.json
+__pycache__/
+*.py[cod]
+outputs/
+
+fringes_*/
+.fringes-in-progress-*/

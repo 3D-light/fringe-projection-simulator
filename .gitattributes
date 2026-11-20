@@ -1,0 +1,5 @@
+* text=auto
+*.png binary
+*.cmd text eol=crlf
+*.npz binary
+*.webp binary
